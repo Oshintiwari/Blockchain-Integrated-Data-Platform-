@@ -1,0 +1,4 @@
+{
+    "blockchain_url": "https://rinkeby.infura.io/v3/YOUR_INFURA_PROJECT_ID",
+    "contract_address": "0xYourSmartContractAddress"
+}
